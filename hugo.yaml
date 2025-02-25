@@ -1,7 +1,7 @@
 baseURL: https://tommasoferrario18.github.io/
 
 languageCode: bn
-title: "John's Blog"
+title: "Tommaso Ferrario Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -23,12 +23,12 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "John's Blog"
+    title: "Tommaso Ferrario Portfolio"
     weight: 1
   bn:
-    languageCode: bn
-    languageName: বাংলা
-    title: জনের ব্লগ
+    languageCode: it
+    languageName: Italian
+    title: "Tommaso Ferrario Portfolio"
     weight: 2
 # default language for the content
 defaultContentLanguage: en
