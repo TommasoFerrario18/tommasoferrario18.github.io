@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: Educazione
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
@@ -10,7 +10,7 @@ section:
   # hideTitle: true
 
 degrees:
-- name: M.Sc. in Computer Science
+- name: Laurea Magistrale in Informatica
   icon: fa-graduation-cap
   timeframe: 2023-2025
   institution:
@@ -34,7 +34,7 @@ degrees:
   #   - name: Supervisor
   #     content: Fusce eu augue ut odio porttitor pulvinar.
 
-- name: B.Sc. in Computer Science
+- name: Laurea Triennale in Informatica
   icon: fa-graduation-cap
   timeframe: 2020-2023
   institution:
@@ -51,7 +51,7 @@ degrees:
     - name: Supervisor
       content: Prof. Enza Messina
     
-- name: High school diploma in Computer Science
+- name: Diploma di Maturità Scientifica in Informatica
   icon: fa-school
   timeframe: 2015-2020
   grade:

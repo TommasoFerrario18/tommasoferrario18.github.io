@@ -5,12 +5,12 @@ copyright: © 2025 Copyright.
 disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses. You can modify or distribute the theme without requiring any permission from the theme author. However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Portfolio of Tommaso Ferrario.
+description: Portfolio di Tommaso Ferrario.
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
 customMenus:
-- name: University Notes
+- name: Appunti Universitari
   url: https://tommasoferrario18.github.io/Appunti/
   # specify whether to hide the menu item from top navbar or not.
   hideFromNavbar: false
@@ -22,6 +22,6 @@ customMenus:
 openGraph:
   title: Tommaso Ferrario - Portfolio
   type: website
-  description: Portfolio of Tommaso Ferrario.
+  description: Portfolio di Tommaso Ferrario.
   image: images/author/default-avatar.png
   url: https://tommasoferrario18.github.io/

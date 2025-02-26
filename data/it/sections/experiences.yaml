@@ -1,0 +1,27 @@
+# section information
+section:
+  name: Esperienza
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Università degli Studi di Milano Bicocca
+    url: "https://www.unimib.it/"
+    location: Milan, Italy
+    logo: /images/sections/experiences/unimib.png
+    overview: L'Università degli Studi di Milano-Bicocca (UniMiB) è un'università pubblica di ricerca situata a Milano, Italia. Fondata nel 1998, è diventata rapidamente una figura centrale nell'istruzione superiore e nella ricerca, offrendo una vasta gamma di programmi di laurea, laurea magistrale e post-laurea. 
+  positions:
+  - designation: Junior Researcher
+    start: Sep 2024
+    end: Dec 2024
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    responsibilities:
+      - Sviluppo di un sistema di profilazione dinamica attraverso reinforcement learning per raccomandazioni di percorsi nel settore del turismo.
+      - Creazione di una piattaforma di servizi pubblici per rendere il sistema di profilazione facilmente accessibile agli utenti.
+      - Scrittura di un articolo di ricerca dettagliando la metodologia e i risultati del sistema di profilazione.

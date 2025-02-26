@@ -1,6 +1,6 @@
 baseURL: https://tommasoferrario18.github.io/
 
-languageCode: bn
+languageCode: en
 title: "Tommaso Ferrario Portfolio"
 
 # Use Hugo modules to add theme
@@ -25,7 +25,7 @@ languages:
     languageName: English
     title: "Tommaso Ferrario Portfolio"
     weight: 1
-  bn:
+  it:
     languageCode: it
     languageName: Italian
     title: "Tommaso Ferrario Portfolio"
@@ -100,12 +100,12 @@ params:
 
     # Enable and configure blog posts
     blog:
-      enable: true
+      enable: false
       showAuthor: true # shows the author of post (defaults true)
       # Share post on different social media
       shareButtons:
         facebook: true
-        twitter: true
+        twitter: false
         linkedin: true
         reddit: true
         whatsapp: true
@@ -117,7 +117,7 @@ params:
 
     # Enable & configure "Notes" features
     notes:
-      enable: true
+      enable: false
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -134,7 +134,7 @@ params:
         #   recordIP: true
         #   enableQQ: true
         # utteranc:
-        #   repo: github.com/hugo-toha/hugo-toha.github.io
+        #   repo: github.com/TommasoFerrario18/tommasoferrario18.github.io
         #   issueTerm: title
         #   theme: github-light
         # giscus:
@@ -155,7 +155,7 @@ params:
 
     # Enable Analytics
     analytics:
-      enabled: true
+      enabled: false
       services:
         # Google Analytics
         google:

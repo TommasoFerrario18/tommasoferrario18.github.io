@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Projects
+  name: Progetti
   id: projects
   enable: true
   weight: 5
@@ -27,7 +27,7 @@ projects:
   role: Owner
   timeline: "March 2024 - July 2024"
   repo: https://github.com/TommasoFerrario18/Progetto-Ants
-  summary: Analysis of ant interaction networks to understand colony organization. The project used network structural properties to study the composition and behavior of individuals within the system.
+  summary: Analisi delle reti di interazione delle formiche per comprendere l'organizzazione delle colonie. Il progetto ha utilizzato le proprietà strutturali delle reti per studiare la composizione e il comportamento degli individui all'interno del sistema.
   tags: ["academic", "Data analysis", "Graph theory", "Network analysis"]
 
 - name: Brain Tumor Detection Using MRI Scans
@@ -35,7 +35,7 @@ projects:
   role: Contributor
   timeline: "January 2024 - February 2024"
   repo: "https://github.com/Tezze2001/brain-tumor-analysis"
-  summary: Detect the presence of brain tumors by analyzing Magnetic Resonance Imaging (MRI) scans.
+  summary: Analisi e classificazione automatica delle immagini di risonanza magnetica (MRI) per la rilevazione dei tumori cerebrali. Il progetto ha coinvolto l'addestramento di modelli di machine learning e la valutazione delle prestazioni.
   tags: ["academic", "Data analysis", "Machine learning"]
 
 - name: FloodNet Image Segmentation
@@ -43,21 +43,21 @@ projects:
   role: Contributor
   timeline: "January 2025 - February 2025"
   repo: "https://github.com/simone-vendramini/FloodDetectionSemanticSegmentation"
-  summary: Semantic segmentation of drone images after Hurricane Harvey for flood identification using Fully Convolutional Networks (FCNs), incorporating data augmentation, architectures like U-Net and SegNet, and fine-tuning of DeepLab.
+  summary: Segmentazione semantica delle immagini dei droni dopo l'uragano Harvey per l'identificazione delle inondazioni utilizzando le Fully Convolutional Networks (FCN), incorporando l'aumento dei dati, architetture come U-Net e SegNet e il fine-tuning di DeepLab.
   tags: ["academic", "Deep learning", "Image processing", "Semantic segmentation"]
 
 - name: FoodX-251_Classification
   role: Owner
   timeline: "January 2025 - February 2025"
   repo: "https://github.com/TommasoFerrario18/FoodX-251_Classification"
-  summary: Design and evaluation of a fine-grained food classification system using image data. The project involved model training, data augmentation, and classification of 251 food classes, including degraded images, with comprehensive performance analysis.
+  summary: Progettazione e valutazione di un sistema di classificazione alimentare basato su immagini. Il progetto ha coinvolto l'addestramento del modello, l'aumento dei dati e la classificazione di 251 classi alimentari, incluse immagini degradate, con un'analisi delle prestazioni completa.
   tags: ["academic", "Deep learning", "Image processing", "Image classification"]
 
 - name: Just Home - Simplifying Short-Term Rentals
   logo: images/sections/projects/android.png
   role: Contributor
   timeline: "December 2022 - February 2023"
-  summary: Just Home is an app that simplifies short-term house rentals for trips and holidays, making the selection and booking process quick and easy.
+  summary: Just Home è un applicazione per dispositivi Android che semplifica gli affitti di breve termine per viaggi e vacanze, rendendo il processo di selezione e prenotazione rapido e semplice.
   tags: ["academic", "Mobile app", "UI/UX design", "Android", "Java"]
 
 - name: Self-Driving Car Simulation
@@ -65,7 +65,7 @@ projects:
   role: Contributor
   timeline: "July 2024 - February 2025"
   repo: "https://gitlab.com/t.terzi/sc_car"
-  summary:  Development of a Unity system with a car agent trained via reinforcement learning to tackle challenges, evaluated using curriculum learning.
+  summary: Sviluppo di un sistema Unity con un agente di guida autonoma addestrato tramite apprendimento per rinforzo per affrontare le sfide, valutato utilizzando l'apprendimento curricolare.
   tags: ["academic", "Deep learning", "Reinforcement learning", "Unity", "Simulation", "Curriculum learning"]
 
 - name: Automatic Classification of Mechanical Tools
@@ -73,12 +73,12 @@ projects:
   role: Contributor
   timeline: "March 2023 - June 2023"
   repo: "https://github.com/simone-vendramini/ToolRecognition"
-  summary: Developed an image-processing dataset and an automatic classification system for mechanical tools, integrating image segmentation, feature extraction, and preprocessing techniques to enhance recognition accuracy.
-  tags: ["academic", "Deep learning", "Image processing", "Image classification"]
+  summary: Sviluppo di un dataset di elaborazione delle immagini e di un sistema di classificazione automatica per gli strumenti meccanici, integrando tecniche di segmentazione delle immagini, estrazione delle caratteristiche e preelaborazione per migliorare l'accuratezza del riconoscimento.
+  tags: ["academic", "Machine learning", "Image processing", "Image classification"]
 
 - name: Tourist Profiler
   role: Contributor
   timeline: "September 2024 - December 2024"
   repo: "https://github.com/MIND-Lab/Tourist-Profiler"
-  summary: Development of a tourist profiling system using reinforcement learning techniques to predict user preferences and recommend personalized travel itineraries.
-  tags: ["professional", "Machine learning", "Recommendation system", "User profiling", "Reinforcement learning"]
+  summary: Sviluppo di un sistema di profilazione turistica utilizzando tecniche di reinforcement learning per prevedere le preferenze degli utenti e consigliare itinerari di viaggio personalizzati.
+  tags: ["professional", "Machine learning", "User profiling", "Reinforcement learning"]

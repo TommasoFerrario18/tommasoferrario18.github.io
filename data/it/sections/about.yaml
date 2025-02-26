@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: M.Sc. Student in Computer Science
+designation: Studente Magistrale in Informatica
 # your company information
 company:
   name: Università degli Studi di Milano Bicocca
@@ -16,7 +16,7 @@ company:
 
 
 # a summary about you
-summary: "I am an M.Sc. student in Computer Science at the University of Milano-Bicocca, with a strong passion for Computer Vision, Machine Learning, and Artificial Intelligence."
+summary: "Sono uno studente magistrale in Informatica presso l'Università degli Studi di Milano-Bicocca, con una forte passione per Computer Vision, Machine Learning e Intelligenza Artificiale."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -36,7 +36,7 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-- title: "My Resume"
+- title: "Scarica il mio CV"
   url: "files/CV.pdf"
 
 # Show your badges

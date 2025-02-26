@@ -2,7 +2,7 @@
 name: "Tommaso Ferrario"
 nickname: "Tommaso"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Ciao, sono"
 image: "images/author/default-avatar.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -12,6 +12,6 @@ contactInfo:
   linkedin: Tommaso Ferrario
 
 summary:
-- I am a Developer.
-- I love working with images.
-- I am a machine learning enthusiast.
+- Sono uno sviluppatore.
+- Adoro lavorare con le immagini.
+- Sono un appassionato di machine learning.
