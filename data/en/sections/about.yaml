@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: M.Sc. Student in Computer Science
+designation: MSc Computer Science
 # your company information
 company:
   name: Università degli Studi di Milano Bicocca
@@ -16,8 +16,7 @@ company:
 
 
 # a summary about you
-summary: "I am an M.Sc. student in Computer Science at the University of Milano-Bicocca, with a strong passion for Computer Vision, Machine Learning, and Artificial Intelligence."
-
+summary: "Highly motivated MSc Computer Science student at the University of Milano-Bicocca with a strong passion for Artificial Intelligence, Machine Learning, and Computer Vision. Currently conducting thesis research at Stevens Institute of Technology, developing innovative methods for scenario generation. Eager to apply academic and research expertise to solve real-world problems and contribute to cutting-edge projects in a leading technology company."
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
@@ -45,12 +44,12 @@ resourceLinks:
 badges:
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 80
   color: blue
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  percentage: 85
   color: yellow
 
 - type: soft-skill-indicator
@@ -65,7 +64,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Communication
-  percentage: 90
+  percentage: 85
   color: pink
 
 - type: soft-skill-indicator
