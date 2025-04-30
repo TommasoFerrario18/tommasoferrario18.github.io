@@ -16,7 +16,7 @@ company:
 
 
 # a summary about you
-summary: "Sono uno studente magistrale in Informatica presso l'Università degli Studi di Milano-Bicocca, con una forte passione per Computer Vision, Machine Learning e Intelligenza Artificiale."
+summary: "Studente di laurea magistrale in Informatica all'Università di Milano-Bicocca, altamente motivato e con una forte passione per l'Intelligenza Artificiale, l'Apprendimento Automatico e la Visione Artificiale. Attualmente impegnato nella ricerca per la tesi presso lo Stevens Institute of Technology, sviluppando metodi innovativi per la generazione di scenari. Desideroso di applicare le competenze accademiche e di ricerca per risolvere problemi reali e contribuire a progetti all'avanguardia in una primaria azienda tecnologica."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -45,12 +45,12 @@ resourceLinks:
 badges:
 - type: soft-skill-indicator
   name: Leadership
-  percentage: 85
+  percentage: 80
   color: blue
 
 - type: soft-skill-indicator
   name: Team Work
-  percentage: 90
+  percentage: 85
   color: yellow
 
 - type: soft-skill-indicator
@@ -65,7 +65,7 @@ badges:
 
 - type: soft-skill-indicator
   name: Communication
-  percentage: 90
+  percentage: 85
   color: pink
 
 - type: soft-skill-indicator
