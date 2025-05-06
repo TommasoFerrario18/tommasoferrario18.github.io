@@ -2,7 +2,7 @@
 section:
   name: Publications
   id: publications
-  enable: false
+  enable: true
   weight: 6
   showOnNavbar: true
   filter: true
@@ -22,9 +22,9 @@ buttons:
 publications:
 - title: Dynamic User Profiling for Personalized Tourism Recommendations Using Reinforcement Learning Models
   publishedIn:
-    name: The 39-th International Conference on Advanced Information Networking and Applications 2025
-    date: 12 April 2025
-    url: https://example.com
+    name: Advanced Information Networking and Applications
+    date: 18 April 2025
+    url: https://link.springer.com/chapter/10.1007/978-3-031-87781-0_21
   authors:
   - name: Tommaso Ferrario
   - name: Gabriele Sormani
@@ -32,6 +32,6 @@ publications:
   - name: Elisabetta Fersini
   paper:
     summary: 'This paper addresses the challenges of providing personalized tourism recommendations amidst the vast amount of information available through digital platforms. It proposes two reinforcement learning (RL) models for dynamic user profiling: a Hierarchical Reinforcement Learning (HRL) model with Matrix Factorization and a Double Deep Q-Network (DDQN) model. These models aim to improve recommendations of Points of Interest (POIs) by adapting user profiles based on changing interests in Topics of Interest (TOIs). Experimental results show that the HRL model works well for users with extensive interaction histories, while the DDQN model is better suited for new or less active users. The study emphasizes the potential of RL models for dynamic user profiling and personalized tourism recommendations.'
-    url: #
+    url: https://link.springer.com/chapter/10.1007/978-3-031-87781-0_21
   categories: ["machinelearning","reinforcementlearning"]
   tags: ["Machine Learning", "Reinforcement Learning", "Tourism", "Dynamic User Profiling"]

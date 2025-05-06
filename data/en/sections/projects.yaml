@@ -43,14 +43,14 @@ projects:
   role: Contributor
   timeline: "January 2025 - February 2025"
   repo: "https://github.com/simone-vendramini/FloodDetectionSemanticSegmentation"
-  summary: Semantic segmentation of drone images after Hurricane Harvey for flood identification using Fully Convolutional Networks (FCNs), incorporating data augmentation, architectures like U-Net and SegNet, and fine-tuning of DeepLab.
+  summary: Developed a semantic segmentation model (U-Net, SegNet, DeepLab) to identify flood areas in drone imagery post-Hurricane Harvey. Implemented data augmentation and fine-tuning techniques, achieving 85% pixel accuracy in flood detection, which aids in rapid disaster response.
   tags: ["academic", "Deep learning", "Image processing", "Semantic segmentation"]
 
-- name: FoodX-251_Classification
+- name: Fine-Grained Food Classification
   role: Owner
   timeline: "January 2025 - February 2025"
   repo: "https://github.com/TommasoFerrario18/FoodX-251_Classification"
-  summary: Design and evaluation of a fine-grained food classification system using image data. The project involved model training, data augmentation, and classification of 251 food classes, including degraded images, with comprehensive performance analysis.
+  summary: Designed and evaluated a fine-grained food classification system using image data. The project involved model training, data augmentation, and classification of 251 food classes, including degraded images, with comprehensive performance analysis.
   tags: ["academic", "Deep learning", "Image processing", "Image classification"]
 
 - name: Just Home - Simplifying Short-Term Rentals
@@ -65,7 +65,7 @@ projects:
   role: Contributor
   timeline: "July 2024 - February 2025"
   repo: "https://gitlab.com/t.terzi/sc_car"
-  summary:  Development of a Unity system with a car agent trained via reinforcement learning to tackle challenges, evaluated using curriculum learning.
+  summary: Developed a Unity-based self-driving car simulation using reinforcement learning to train a car agent to navigate complex environments. Employed curriculum learning to improve training efficiency and evaluated the agent's performance in various challenging scenarios.
   tags: ["academic", "Deep learning", "Reinforcement learning", "Unity", "Simulation", "Curriculum learning"]
 
 - name: Automatic Classification of Mechanical Tools
