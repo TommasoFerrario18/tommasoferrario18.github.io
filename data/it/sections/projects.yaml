@@ -48,6 +48,7 @@ projects:
 
 - name: FoodX-251_Classification
   role: Owner
+  image: images/sections/projects/food-classification.png
   timeline: "January 2025 - February 2025"
   repo: "https://github.com/TommasoFerrario18/FoodX-251_Classification"
   summary: Progettazione e valutazione di un sistema di classificazione alimentare basato su immagini. Il progetto ha coinvolto l'addestramento del modello, l'aumento dei dati e la classificazione di 251 classi alimentari, incluse immagini degradate, con un'analisi delle prestazioni completa.
@@ -82,3 +83,11 @@ projects:
   repo: "https://github.com/MIND-Lab/Tourist-Profiler"
   summary: Sviluppo di un sistema di profilazione turistica utilizzando tecniche di reinforcement learning per prevedere le preferenze degli utenti e consigliare itinerari di viaggio personalizzati.
   tags: ["professional", "Machine learning", "User profiling", "Reinforcement learning"]
+
+- name: Travel Pals
+  logo: images/sections/projects/travel.jpg
+  role: Contributor
+  repo: "https://gitlab.com/edu-disco/labprog2425/travelpals"
+  timeline: "Marzo 2025 - Giugno 2025"
+  summary: Sviluppo di un'applicazione multipiattaforma per la pianificazione dei viaggi, che consente agli utenti di semplificare la pianificazione di viaggi di gruppo, condividendo le spese e semplificando le decisioni di viaggio.
+  tags: ["academic", "Mobile development", "UI/UX design", "Flutter", "Dart", "Firebase"]
