@@ -4,7 +4,7 @@ section:
   id: education
   template: sections/education.html # Use "sections/education-alt.html for alternate template.
   enable: true
-  weight: 4
+  weight: 3
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -20,11 +20,18 @@ degrees:
     darkLogo: /images/education/unimib.png
   grade:
     scale: Final Grade
-    achieved: /
+    achieved: 110
     outOf: 110
+  customSections:
+    - name: Thesis
+      content: 'Doob-Meyer Decomposition and AI for Dynamic Scenario Generation'
+    - name: Supervisor
+      content: Prof. Enza Messina
+    - name: Co-Supervisor
+      content: Dr. Alan J. King
   publications:
   - title: Dynamic User Profiling for Personalized Tourism Recommendations Using Reinforcement Learning Models
-    url: "#"
+    url: "https://link.springer.com/chapter/10.1007/978-3-031-87781-0_21"
   # extracurricularActivities: #(optional), supports markdown
   # - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   # - Fusce eu augue ut odio porttitor pulvinar.
@@ -50,6 +57,8 @@ degrees:
       content: 'Automatic traffic analysis: machine learning approaches for the analysis of traffic flows on road networks'
     - name: Supervisor
       content: Prof. Enza Messina
+    - name: Co-Supervisor
+      content: Dr. Michele Carbonera
     
 - name: Diploma di Maturità Scientifica in Informatica
   icon: fa-school

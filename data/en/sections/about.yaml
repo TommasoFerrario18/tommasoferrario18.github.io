@@ -8,15 +8,15 @@ section:
   template: sections/about.html
 
 # your designation
-designation: MSc Computer Science
+designation: Junior Machine Learning Engineer
 # your company information
 company:
-  name: Università degli Studi di Milano Bicocca
-  url: "https://www.unimib.it/"
+  name: "Intesa Sanpaolo"
+  url: "https://www.intesasanpaolo.com/"
 
 
 # a summary about you
-summary: "Highly motivated MSc Computer Science student at the University of Milano-Bicocca with a strong passion for Artificial Intelligence, Machine Learning, and Computer Vision. Currently conducting thesis research at Stevens Institute of Technology, developing innovative methods for scenario generation. Eager to apply academic and research expertise to solve real-world problems and contribute to cutting-edge projects in a leading technology company."
+summary: "I am a highly motivated Computer Science professional with a strong passion for Artificial Intelligence, Machine Learning, and Computer Vision. Currently, I work at Intesa Sanpaolo as a Junior Machine Learning Engineer, where I focus on developing innovative AI-driven solutions for the banking sector. I hold a Master’s degree in Computer Science from the University of Milan-Bicocca, with a deep interest in advancing the understanding and application of AI technologies. My master’s thesis, completed at Stevens Institute of Technology, explored a novel approach to scenario generation. I am eager to contribute to the ongoing technological transformation shaping the future of industry and society."
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:

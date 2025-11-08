@@ -8,15 +8,15 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Studente Magistrale in Informatica
+designation: Junior Machine Learning Engineer
 # your company information
 company:
-  name: Università degli Studi di Milano Bicocca
-  url: "https://www.unimib.it/"
+  name: "Intesa Sanpaolo"
+  url: "https://www.intesasanpaolo.com/"
 
 
 # a summary about you
-summary: "Studente di laurea magistrale in Informatica all'Università di Milano-Bicocca, altamente motivato e con una forte passione per l'Intelligenza Artificiale, l'Apprendimento Automatico e la Visione Artificiale. Attualmente impegnato nella ricerca per la tesi presso lo Stevens Institute of Technology, sviluppando metodi innovativi per la generazione di scenari. Desideroso di applicare le competenze accademiche e di ricerca per risolvere problemi reali e contribuire a progetti all'avanguardia in una primaria azienda tecnologica."
+summary: "Sono un professionista altamente motivato nel campo dell'Informatica, con una forte passione per l'Intelligenza Artificiale, il Machine Learning e la Computer Vision. Attualmente lavoro presso Intesa Sanpaolo come Junior Machine Learning Engineer, dove mi occupo dello sviluppo di soluzioni innovative basate su tecnologie di AI per il settore bancario. Ho conseguito la laurea magistrale in Informatica presso l'Università degli Studi di Milano-Bicocca, con un profondo interesse per l'approfondimento e l'applicazione dell'Intelligenza Artificiale. La mia tesi di laurea, svolta presso la Stevens Institute of Technology, ha esplorato un nuovo approccio alla generazione di scenari. Sono desideroso di contribuire alla trasformazione tecnologica che sta plasmando il futuro dell'industria e della società."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
