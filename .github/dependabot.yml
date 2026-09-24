@@ -1,0 +1,10 @@
+# Keep the GitHub Actions used by the deploy workflow up to date
+
+version: 2
+updates:
+- package-ecosystem: "github-actions"
+  directory: "/"
+  schedule:
+    interval: "daily"
+  labels:
+  - "dependencies"
