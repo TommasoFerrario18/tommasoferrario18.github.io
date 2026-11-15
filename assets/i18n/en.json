@@ -50,7 +50,7 @@
 
   "eorc.alt": "EORC",
   "eorc.meta": "Route 01 · EORC Ltd · Professional",
-  "eorc.role": "Co-founder / Lead Engineer",
+  "eorc.role": "Contributor",
   "eorc.title": "EORC Energy Optimization Platform",
   "eorc.problem": "Energy systems have to plan capacity while demand and supply stay uncertain.",
   "eorc.approach": "A platform that converts stochastic demand and supply scenarios into multi-stage capacity-planning decisions. I own the architecture end to end, across optimization, backend and data visualization.",
@@ -132,7 +132,7 @@
   "msc.date": "Cum laude · Sep 2023 — Sep 2025",
   "msc.title": "M.Sc. in Computer Science",
   "msc.school": "University of Milano-Bicocca",
-  "msc.thesis": "Thesis: <em>Doob–Meyer Decomposition and AI for Dynamic Scenario Generation</em>, research conducted at Stevens Institute of Technology, Hoboken, NJ, USA.",
+  "msc.thesis": "Thesis: <em>Doob-Meyer Decomposition and AI for Dynamic Scenario Generation</em>, research conducted at Stevens Institute of Technology, Hoboken, NJ, USA.",
   "bsc.grade": "107/110",
   "bsc.date": "Sep 2020 — Jul 2023",
   "bsc.title": "B.Sc. in Computer Science",
