@@ -26,9 +26,9 @@ img{max-width:100%}
 .h2{font-weight:700;font-stretch:125%;font-size:clamp(32px,4.6vw,56px);line-height:1.04;letter-spacing:-.04em}
 
 /* layout */
-.page{max-width:1320px;margin:0 auto;padding:40px 32px 0;display:flex;flex-wrap:wrap;gap:40px 48px;align-items:flex-start}
+.page{max-width:1680px;margin:0 auto;padding:40px clamp(20px,4vw,72px) 0;display:flex;flex-wrap:wrap;gap:40px clamp(48px,5vw,104px);align-items:flex-start}
 .rail{flex:1 1 100%;min-width:240px;display:flex;flex-direction:row;flex-wrap:wrap;align-items:center;gap:20px 28px}
-.rail__img{display:block;width:88px;aspect-ratio:1/1;object-fit:cover;border-radius:4px}
+.rail__img{display:block;width:88px;height:auto;aspect-ratio:1/1;object-fit:cover;border-radius:4px}
 .rail__id{display:flex;flex-direction:column;gap:6px}
 .rail__name{font-weight:700;font-stretch:125%;font-size:20px;letter-spacing:-.02em;line-height:1.1}
 .rail__role{font-size:15px;color:var(--text)}
@@ -45,7 +45,7 @@ img{max-width:100%}
 .pill-btn--ghost{background:transparent;color:var(--ink);border:1px solid var(--rule)}
 .pill-btn--ghost:hover{border-color:var(--ink)}
 @media (min-width:820px){
-  .rail{flex:0 1 264px;position:sticky;top:40px;flex-direction:column;align-items:stretch}
+  .rail{flex:0 1 280px;position:sticky;top:40px;flex-direction:column;align-items:stretch}
   .rail__img{width:100%}
   .wpnav{display:flex}
 }
@@ -56,14 +56,14 @@ main{flex:1 1 440px;min-width:0}
 .hero__status{display:flex;align-items:center;gap:10px;animation-delay:.1s}
 .hero__status i{width:8px;height:8px;border-radius:50%;background:var(--accent)}
 .hero h1{animation-delay:.2s;font-weight:700;font-stretch:125%;font-size:clamp(40px,6.2vw,84px);line-height:1.02;letter-spacing:-.045em;text-wrap:balance}
-.hero__lede{animation-delay:.3s;font-size:19px;line-height:1.6;color:var(--text);max-width:620px;text-wrap:pretty}
+.hero__lede{animation-delay:.3s;font-size:19px;line-height:1.6;color:var(--text);max-width:68ch;text-wrap:pretty}
 .hero__actions{animation-delay:.4s;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 .hero__actions a{font-size:15px;padding:14px 16px}
 .hero__actions .cta{font-weight:600;padding:14px 24px;background:var(--accent);color:#fff;border-radius:999px}
 .hero__actions .cta:hover{background:var(--ink);color:var(--bg)}
 
 /* ascent */
-.ascent{padding:0 0 112px}
+.ascent{padding:0 0 clamp(96px,9vw,136px)}
 .ascent__head{display:flex;justify-content:space-between;align-items:baseline;gap:16px;flex-wrap:wrap;margin-bottom:8px;font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 .ascent__head h2{font:inherit}
 .ascent__scroll{overflow-x:auto}
@@ -82,7 +82,7 @@ main{flex:1 1 440px;min-width:0}
 .ms--now span{color:var(--accent-text)}
 
 /* sections */
-.sec{padding:96px 0;border-top:1px solid var(--rule)}
+.sec{padding:clamp(80px,8vw,128px) 0;border-top:1px solid var(--rule)}
 .sec__head{display:flex;flex-direction:column;gap:14px;margin-bottom:56px}
 
 /* featured cards */
@@ -128,14 +128,14 @@ main{flex:1 1 440px;min-width:0}
 .job__main{flex:1 1 380px;min-width:0;display:flex;flex-direction:column;gap:12px}
 .job h3{font-weight:700;font-stretch:125%;font-size:24px;letter-spacing:-.03em}
 .job__org{font-size:16px;color:var(--text)}
-.job p{font-size:16px;line-height:1.6;color:var(--text);max-width:640px}
+.job p{font-size:16px;line-height:1.6;color:var(--text);max-width:72ch}
 
 /* publication */
 .pub{display:flex;flex-direction:column;gap:16px}
-.pub h3{font-weight:600;font-stretch:110%;font-size:clamp(22px,2.6vw,30px);line-height:1.2;letter-spacing:-.025em;text-wrap:balance;max-width:800px}
+.pub h3{font-weight:600;font-stretch:110%;font-size:clamp(22px,2.6vw,30px);line-height:1.2;letter-spacing:-.025em;text-wrap:balance;max-width:920px}
 .pub__authors{font-size:15px;color:var(--text)}
 .pub__authors strong{color:var(--ink);font-weight:600}
-.pub__abs{font-size:16px;line-height:1.6;color:var(--text);max-width:700px;text-wrap:pretty}
+.pub__abs{font-size:16px;line-height:1.6;color:var(--text);max-width:76ch;text-wrap:pretty}
 
 /* education / skills grids */
 .grid{display:grid;gap:48px 56px}
@@ -152,19 +152,19 @@ main{flex:1 1 440px;min-width:0}
 .gear p{font-size:17px;line-height:1.55}
 
 /* summit */
-.award{display:flex;flex-direction:column;gap:10px;max-width:680px}
+.award{display:flex;flex-direction:column;gap:10px;max-width:760px}
 .award h3{font-weight:700;font-stretch:125%;font-size:24px;letter-spacing:-.03em}
 .award p{font-size:16px;line-height:1.6;color:var(--text);text-wrap:pretty}
 .more{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:32px 56px;margin-top:56px;padding-top:32px;border-top:1px solid var(--rule)}
 .more div{display:flex;flex-direction:column;gap:8px}
 .more span{font-family:var(--mono);font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
 .more p{font-size:17px;line-height:1.5}
-.closing{margin-top:64px;font-weight:500;font-stretch:112%;font-size:clamp(20px,2.4vw,26px);line-height:1.4;letter-spacing:-.02em;max-width:760px;text-wrap:pretty}
+.closing{margin-top:64px;font-weight:500;font-stretch:112%;font-size:clamp(20px,2.4vw,26px);line-height:1.4;letter-spacing:-.02em;max-width:880px;text-wrap:pretty}
 
 /* footer */
-.foot{padding:96px 0 40px;border-top:1px solid var(--ink);display:flex;flex-direction:column;gap:56px}
+.foot{padding:clamp(80px,8vw,128px) 0 40px;border-top:1px solid var(--ink);display:flex;flex-direction:column;gap:56px}
 .foot__top{display:flex;flex-direction:column;gap:24px}
-.foot h2{font-weight:700;font-stretch:125%;font-size:clamp(30px,4.4vw,54px);line-height:1.06;letter-spacing:-.04em;max-width:760px;text-wrap:balance}
+.foot h2{font-weight:700;font-stretch:125%;font-size:clamp(30px,4.4vw,54px);line-height:1.06;letter-spacing:-.04em;max-width:920px;text-wrap:balance}
 .foot__mail{align-self:flex-start;font-size:clamp(16px,2vw,20px);border-bottom:2px solid var(--accent);padding-bottom:6px;overflow-wrap:anywhere}
 .foot__bar{display:flex;flex-wrap:wrap;justify-content:space-between;gap:16px;font-family:var(--mono);font-size:12px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
 .foot__bar nav{display:flex;flex-wrap:wrap;gap:22px}
